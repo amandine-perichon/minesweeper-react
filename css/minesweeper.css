@@ -36,7 +36,7 @@ body {
 }
 
 div.mine, div.mine:hover {
-  background: no-repeat center/60% url("/css/bomb.svg") crimson;
+  background: no-repeat center/60% url("./css/bomb.svg") crimson;
 }
 
 div.hidden {
@@ -48,5 +48,5 @@ div.hidden:hover {
 }
 
 div.marked, div.marked:hover {
-  background: no-repeat center/60% url("/css/mark.svg") deepskyblue;
+  background: no-repeat center/60% url("./css/mark.svg") deepskyblue;
 }
